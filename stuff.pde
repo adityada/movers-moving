@@ -1,7 +1,7 @@
 int width = 1280;
 int height = 720;
 
-Mover m[] = new Mover[10];
+Mover m[] = new Mover[100];
 
 void settings() {
  size(width, height); 
